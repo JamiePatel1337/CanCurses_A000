@@ -1,0 +1,22 @@
+{
+    "TRANSPORT": "CAN",
+    "CAN_DRIVER": "Kvaser",
+    "DBC_FILE": "./tesla_can.dbc",
+    "CAN_USE_DEFAULT_LISTENER": true,
+    "CHANNEL": 1,
+    "ACCEPT_VIRTUAL": true,
+    "BAUDRATE_PRESET": true,
+    "CAN_ID_MASTER": 30,
+    "CAN_ID_SLAVE": 31,
+    "CAN_ID_BROADCAST": 29,
+    "MAX_DLC_REQUIRED": false,
+    "BITRATE": 500000,
+    "DATA_BITRATE": 500000,
+    "BTL_CYCLES": 16,
+    "SAMPLE_RATE": 1,
+    "SAMPLE_POINT": 87.5,
+    "SJW": 2,
+    "TSEG1": 5,
+    "TSEG2": 2,
+    "CREATE_DAQ_TIMESTAMPS": false
+}
