@@ -3,7 +3,7 @@
 Simple Python (>3.7) CAN Tx/Rx with Curses UI. Tested with Kvaser Virtual CAN channels only.
 
 python packages needed:
- >python3.7
+ > python3.7
  venv
  canlib
  cantools
