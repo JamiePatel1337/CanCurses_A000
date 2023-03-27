@@ -1,6 +1,6 @@
 # CanCurses_A000
 
-Simple Python (>3.7) CAN Tx/Rx with Curses UI
+Simple Python (>3.7) CAN Tx/Rx with Curses UI. Tested with Kvaser Virtual CAN channels only.
 
 python packages needed:
  >python3.7
